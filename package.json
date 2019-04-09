@@ -1,0 +1,24 @@
+{
+  "name": "preact-htm-pika-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "prepare": "pika-web",
+    "start": "serve ./"
+  },
+  "dependencies": {
+    "htm": "^2.1.1",
+    "preact": "^10.0.0-alpha.4"
+  },
+  "devDependencies": {
+    "@pika/web": "^0.4.1",
+    "serve": "^11.0.0"
+  },
+  "@pika/web": {
+    "webDependencies": [
+      "preact/hooks",
+      "htm/preact"
+    ]
+  }
+}
