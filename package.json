@@ -8,7 +8,7 @@
     "start": "serve ./"
   },
   "dependencies": {
-    "htm": "^2.1.1",
+    "htm": "^2.2.1",
     "preact": "^10.0.0-alpha.4"
   },
   "devDependencies": {
