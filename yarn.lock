@@ -526,9 +526,10 @@ has-values@^1.0.0:
     is-number "^3.0.0"
     kind-of "^4.0.0"
 
-htm@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/htm/-/htm-2.1.1.tgz#5a53e5f2845c3181b1672f95c9bffaf3d621bb0e"
+htm@^2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/htm/-/htm-2.2.1.tgz#02ae7459901b3956aeaf6c7ae627fb6905dc7607"
+  integrity sha512-nPWqBlSbdSHaT2d/cpFRpZLqH5BcdaRcXaicyAtXbkIsIiXLnstPPg0fEX3I8SrlY16FSzb1FLK44uk25xhMvw==
 
 inflight@^1.0.4:
   version "1.0.6"
